@@ -1,5 +1,21 @@
-1. This is the start-up code for the MPP Project
+Project Minimum Functionalities
+1-	Login properly, the login page should work in a standard method for any software application. 
+2-	The user interface for different roles should differ between the librarian and the admin.
+3-	Role’s UI should not see the functions of other roles. 
+4-	An admin should be capable of adding members and books. 
+5-	The librarian should issue the book checkouts upon specified periods of days.
+6-	A book should have several copies, sharing the same ISBN.
+7-	When a book is issued up to the number of copies, the system should not allow any checkout for that book and should inform no more books are available. 
+8-	Basic verification could be applied. 
+9-	Don’t rely on the window button, have proper navigation through your system.
+10-	Always place a sign out/logout option.
+11-	Provide a ‘user welcome’ or ‘signed in as’ as an indicator that the user is logged on.
+12-	A member should be defined if he/she has passed due date from borrowing the book.
+13-	There should be a method to see all books and members. 
+14-	There should be a method to see all checkouts.
+15-	Add a help option that will provide a brief explanation of your project.
+16-	Make the colors or design of your layouts related.
+17-	Have your buttons to functions in common locations.
+18-	Place UI components in a related manner. Not on opposite corners. 
+19-	Main UIs should be singletons. 
 
-2. Students: Mention any extra credit use cases you have done in the other readme file
-
-3. Students: Put sequence diagrams and class diagram in this folder
